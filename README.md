@@ -1,16 +1,38 @@
-# React + Vite
+# Almacen Katrina
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pagina web de tienda de ropa desarrollada en React + Vite.
 
-Currently, two official plugins are available:
+## Descripcion
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Almacen Katrina es una tienda virtual de ropa industrial que ofrece camisas, pantalones y jeans. El proyecto fue desarrollado como mock-up funcional con navegacion entre paginas, carrito de compras y flujo de compra completo.
 
-## React Compiler
+## Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Catalogo de productos con filtro por categoria (camisas, pantalones, jeans)
+- Vista de detalle de cada producto con seleccion de talla
+- Carrito de compras con conteo de productos
+- Registro e inicio de sesion con validacion de formularios
+- Flujo de compra completo con resumen del pedido y pagina de exito
+- Footer con informacion de contacto
 
-## Expanding the ESLint configuration
+## Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 18
+- Vite
+- JavaScript
+- CSS en linea con objetos de estilos
+
+## Como correr el proyecto
+
+```bash
+npm install
+npm run dev
+```
+
+## Autores
+
+Miguel Ángel Hernández Vargas
+Juan Sebastián Fajardo Acevedo
+Michelle Dayana Ruiz Carranza
+
+
