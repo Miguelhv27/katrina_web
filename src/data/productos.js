@@ -21,7 +21,7 @@ export const productos = [
     categoria: "pantalones",
     precio: 99900,
     descripcion: "Pantalón de corte recto, resistente y cómodo.",
-    imagen: "/pantalon_recto_negro.png"
+    imagen: "/jean_negro_slim.png"
   },
   {
     id: 4,
@@ -45,6 +45,6 @@ export const productos = [
     categoria: "jeans",
     precio: 119900,
     descripcion: "Jean slim fit en color negro, resistente.",
-    imagen: "/jean_negro_slim.png"
+    imagen: "/pantalon_recto_negro.png"
   }
 ]
